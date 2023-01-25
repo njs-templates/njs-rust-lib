@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+	  "rust-lang.rust-analyzer",
+	  "bungcip.better-toml",
+	  "davidanson.vscode-markdownlint",
+	  "streetsidesoftware.code-spell-checker",
+	  "gruntfuggly.todo-tree",
+	  "mhutchie.git-graph",
+	  "donjayamanne.githistory"
+	]
+  }
+  
